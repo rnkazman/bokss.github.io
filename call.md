@@ -4,13 +4,13 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-# 2nd International Workshop on Robotics Software Engineering (RoSE'19) 
+# 1st International Workshop on Body of Knowledge for Software Sustainability (BoKSS'21) 
 
-- Co-located with [ICSE 2019](https://2019.icse-conferences.org) 
-- in Montréal, Canada 
-- May 27, 2019
+- Co-located with [ICSE 2021](https://2021.icse-conferences.org) 
+- in Madird, Spain 
+- MM DD, 2021
 
-![alt text](https://github.com/rose-workshops/rose-workshops.github.io/raw/master/files/rose2019/rose2019participants.jpg)
+#![alt text](https://github.com/rose-workshops/rose-workshops.github.io/raw/master/files/rose2019/rose2019participants.jpg)
 
 ## Theme & Goals
 
@@ -136,10 +136,8 @@ Workshop papers must follow the [ICSE 2019 Format and Submission Guideline](http
 - Camera-ready copies due: March 15, 2019
 
 ## Organizing Committee 
-- [Federico Ciccozzi](http://www.es.mdh.se/staff/266-Federico_Ciccozzi) (Mälardalen University, Sweden)
-- [Nico Hochgeschwender](https://wwwen.uni.lu/snt/people/nico_hochgeschwender) (Université du Luxembourg, Luxembourg)
-- [Ivano Malavolta](http://www.ivanomalavolta.com/pu) (Vrije Universiteit Amsterdam, The Netherlands)
-- [Andreas Wortmann](http://www.wortmann.ac/) (RWTH Aachen University, Germany)
+- [Patricia Lago](http://patricialago.nl) (Vrije Universiteit Amsterdam (The Netherlands) & Chalmers University of Technology (Sweden)
+- [Rick Kazman](https://shidler.hawaii.edu/itm/directory/rick-kazman) (University of Hawaii, USA)
 
 ## Program Committee 
 
