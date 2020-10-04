@@ -10,8 +10,6 @@ Official web page of the 1st edition of the BoKSS international workshop
 - in Madird, Spain 
 - MM DD, 2021
 
-#![alt text](https://github.com/rose-workshops/rose-workshops.github.io/raw/master/files/rose2019/rose2019participants.jpg)
-
 ## Theme & Goals
 
 With the pervasive role of software and digitalization in all aspects of contemporary society, the topic of sustainability is becoming increasingly important and increasingly urgent for software engineers and software engineering education. But we have a scant foundation of practices, examples, tools, datasets, guidelines \etc upon which to make principled engineering decisions and upon which to build a curriculum. In spite of the active international research community in the field, we lack a strong foundation of significant and reusable {\em results} upon which to build tangible progress that helps contribute to the target sustainability goals.
