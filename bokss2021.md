@@ -11,7 +11,7 @@ title: BoKSS 2021
 
 ## Theme & Goals
 
-With the pervasive role of software and digitalization in all aspects of contemporary society, the topic of sustainability is becoming increasingly important and increasingly urgent for software engineers and software engineering education. But we have a scant foundation of practices, examples, tools, datasets, guidelines \etc upon which to make principled engineering decisions and upon which to build a curriculum. In spite of the active international research community in the field, we lack a strong foundation of significant and reusable results upon which to build tangible progress that helps contribute to the target sustainability goals.
+With the pervasive role of software and digitalization in all aspects of contemporary society, the topic of sustainability is becoming increasingly important and increasingly urgent for software engineers and software engineering education. But we have a scant foundation of practices, examples, tools, datasets, guidelines etc. upon which to make principled engineering decisions and upon which to build a curriculum. In spite of the active international research community in the field, we lack a strong foundation of significant and reusable results upon which to build tangible progress that helps contribute to the target sustainability goals.
 
 The goal of BoKSS 2021 is to create such a knowledge base. We seek to create a knowledge base of actionable results that will transform sustainable software engineering practices from a novel research area into a robust, repeatable, teachable practice area within software engineering.
 
@@ -30,9 +30,9 @@ topics related to sustainable software and software for sustainability:
 ## Workshop Program 
 
 #### Session 1 (09:00 - 10:30)
-- TBD
+- Pitches (TBD)
 #### Session 2 (11:00 - 12:30)
-- TBD
+- Interactive break-out session
 
 #### Session 3 (14:00 - 15:30)
 - Interactive break-out session
@@ -47,7 +47,7 @@ topics related to sustainable software and software for sustainability:
 
 ## Submission Guidelines 
 
-Prospective participants are invited to submit:
+Prospective participants are invited to submit two types of contributions:
 - Full papers (max 8 pages) will describe concrete contributions to the BoKSS. They will be structured as follows:
 -- A description of the sustainability problem you address.
 -- A description of the SE solution you propose.
