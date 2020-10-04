@@ -1,7 +1,6 @@
 ---
 layout: page
-Official web page of the 1st edition of the BoKSS international workshop
-# subtitle: 
+## Official web page of the 1st edition of the BoKSS international workshop
 ---
 
 # 1st International Workshop on Body of Knowledge for Software Sustainability (BoKSS'21) 
