@@ -31,6 +31,7 @@ topics related to sustainable software and software for sustainability:
 
 #### Session 1 (09:00 - 10:30)
 - Pitches (TBD)
+
 #### Session 2 (11:00 - 12:30)
 - Interactive break-out session
 
@@ -49,8 +50,8 @@ topics related to sustainable software and software for sustainability:
 
 Prospective participants are invited to submit two types of contributions:
 - Full papers (max 8 pages) will describe concrete contributions to the BoKSS. They will be structured as follows:
-> A description of the sustainability problem you address.
--- A description of the SE solution you propose.
+--- A description of the sustainability problem you address.
+--- A description of the SE solution you propose.
 -- A discussion of how results are measurable (e.g., KPIs).
 -- A presentation of the evidence of contribution to sustainability, ideally including real world experiences.
 -- A discussion of the costs and benefits of your approach.
