@@ -62,7 +62,7 @@ Prospective participants are invited to submit two types of contributions:
 -- The challenge problem.
 -- The current solution/s (if present) and their strengths and weaknesses.
 
-Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](https://2021.icse-conferences.org/track/icse-2019-Technical-Papers#Call-for-Papers), but will use a *single blind* submission process. All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. All workshop papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/conferences/?conf=bokks2021). Accepted papers will become part of the workshop proceedings.
+Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](https://conf.researchr.org/track/icse-2021/icse-2021-papers#Call-for-Papers), but will use a *single blind* submission process. All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. All workshop papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/conferences/?conf=bokss2021). Accepted papers will become part of the workshop proceedings.
 
 ## Important Dates 
 - Workshop paper submissions due: TBA, 2021
@@ -70,8 +70,8 @@ Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](http
 - Camera-ready copies due: TBA, 2021
 
 ## Organizing Committee 
-- [Patricia Lago](http://patricialago.nl) (Vrije Universiteit Amsterdam (The Netherlands) & Chalmers University of Technology (Sweden)
-- [Rick Kazman](https://shidler.hawaii.edu/itm/directory/rick-kazman) (University of Hawaii, USA)
+- [Patricia Lago](http://patricialago.nl), Vrije Universiteit Amsterdam (The Netherlands) & Chalmers University of Technology (Sweden)
+- [Rick Kazman](https://shidler.hawaii.edu/itm/directory/rick-kazman), University of Hawaii (USA)
 
 ## Program Committee
 
