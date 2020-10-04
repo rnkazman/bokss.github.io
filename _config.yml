@@ -14,7 +14,8 @@ author: BoKSS OC
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Call for Papers: "call"
+  # Call for Papers: "call"
+  BoKSS 2021: "bokss2021"
   Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
