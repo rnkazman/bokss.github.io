@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Official web page of the 1st edition of the BoKSS international workshop
+Official web page of the 1st edition of the BoKSS international workshop
 # subtitle: 
 ---
 
