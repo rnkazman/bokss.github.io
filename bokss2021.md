@@ -43,13 +43,13 @@ topics related to sustainable software and software for sustainability:
 - Next steps for BoKSS
 
 #### Workshop Dinner (starting at 19:30)
-- TBD
+- TBA
 
 ## Submission Guidelines 
 
 Prospective participants are invited to submit two types of contributions:
 - Full papers (max 8 pages) will describe concrete contributions to the BoKSS. They will be structured as follows:
--- A description of the sustainability problem you address.
+> A description of the sustainability problem you address.
 -- A description of the SE solution you propose.
 -- A discussion of how results are measurable (e.g., KPIs).
 -- A presentation of the evidence of contribution to sustainability, ideally including real world experiences.
@@ -64,9 +64,9 @@ Prospective participants are invited to submit two types of contributions:
 Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](https://2021.icse-conferences.org/track/icse-2019-Technical-Papers#Call-for-Papers), but will use a *single blind* submission process. All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. All workshop papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/conferences/?conf=bokks2021). Accepted papers will become part of the workshop proceedings.
 
 ## Important Dates 
-- Workshop paper submissions due: TBD, 2021
-- Notification to authors: TBD, 2021
-- Camera-ready copies due: TBD, 2021
+- Workshop paper submissions due: TBA, 2021
+- Notification to authors: TBA, 2021
+- Camera-ready copies due: TBA, 2021
 
 ## Organizing Committee 
 - [Patricia Lago](http://patricialago.nl) (Vrije Universiteit Amsterdam (The Netherlands) & Chalmers University of Technology (Sweden)
@@ -74,7 +74,8 @@ Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](http
 
 ## Program Committee
 
-TBD
+TBA
 
 ## Call for Papers 
-- [Call for Papers (PDF)](https://github.com/TBD)
+
+TBA
