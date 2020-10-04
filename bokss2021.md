@@ -3,7 +3,7 @@ layout: page
 title: BoKSS 2021
 ---
 
-# 1st International Workshop on Body of Knowledge for Software Sustainability (BoKSS'21) 
+# 1st International Workshop on the Body of Knowledge for Software Sustainability (BoKSS'21) 
 
 - Co-located with [ICSE 2021](https://conf.researchr.org/home/icse-2021) 
 - in Madrid, Spain 
