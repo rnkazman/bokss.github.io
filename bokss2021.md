@@ -70,8 +70,8 @@ Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](http
 - Camera-ready copies due: TBA, 2021
 
 ## Organizing Committee 
-- [Patricia Lago](http://patricialago.nl), Vrije Universiteit Amsterdam (The Netherlands) & Chalmers University of Technology (Sweden)
-- [Rick Kazman](https://shidler.hawaii.edu/itm/directory/rick-kazman), University of Hawaii (USA)
+- [Patricia Lago](http://patricialago.nl), Vrije Universiteit Amsterdam & Chalmers University of Technology
+- [Rick Kazman](https://shidler.hawaii.edu/itm/directory/rick-kazman), University of Hawaii
 
 ## Program Committee
 
