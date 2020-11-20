@@ -6,8 +6,8 @@ title: BoKSS 2021
 # 1st International Workshop on the Body of Knowledge for Software Sustainability (BoKSS'21) 
 
 - Co-located with [ICSE 2021](https://conf.researchr.org/home/icse-2021) (under submission)
-- in Madrid, Spain 
-- MM DD, 2021
+- Virtual 
+- May 23 – 29, 2021
 
 ## Theme & Goals
 
@@ -29,16 +29,16 @@ topics related to sustainable software and software for sustainability:
 
 ## Workshop Program 
 
-#### Session 1 (09:00 - 10:30)
+#### Session 1 (TBA)
 - Pitches (TBD)
 
-#### Session 2 (11:00 - 12:30)
+#### Session 2 (TBA)
 - Interactive break-out session
 
-#### Session 3 (14:00 - 15:30)
+#### Session 3 (TBA)
 - Interactive break-out session
 
-#### Session 4 (16:00 - 17:30)
+#### Session 4 (TBA)
 - Presentation of break-out session results
 - Discussion
 - Next steps for BoKSS
@@ -75,7 +75,7 @@ Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](http
 
 ## Program Committee
 
-TBA
+- TBA
 
 ## Call for Papers 
 
