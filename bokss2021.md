@@ -43,9 +43,6 @@ topics related to sustainable software and software for sustainability:
 - Discussion
 - Next steps for BoKSS
 
-#### Workshop Dinner (starting at 19:30)
-- TBA
-
 ## Submission Guidelines 
 
 Prospective participants are invited to submit two types of contributions:
@@ -65,9 +62,9 @@ Prospective participants are invited to submit two types of contributions:
 Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](https://conf.researchr.org/track/icse-2021/icse-2021-papers#Call-for-Papers), but will use a *single blind* submission process. All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. All workshop papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/conferences/?conf=bokss2021). Accepted papers will become part of the workshop proceedings.
 
 ## Important Dates 
-- Workshop paper submissions due: TBA, 2021
-- Notification to authors: TBA, 2021
-- Camera-ready copies due: TBA, 2021
+- Workshop paper submissions due: Tue 12 January, 2021 (AoE time)
+- Notification to authors: Mon 22 February, 2021 (AoE time)
+- Camera-ready copies due: Fri 12 March, 2021 (AoE time)
 
 ## Organizing Committee 
 - [Patricia Lago](http://patricialago.nl), Vrije Universiteit Amsterdam & Chalmers University of Technology
