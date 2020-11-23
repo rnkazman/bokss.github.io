@@ -72,7 +72,25 @@ Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](http
 
 ## Program Committee
 
-- TBA
+- Marco Aiello (U of Stuttgart, Germany)
+- Vasilios Andrikopoulos (U Groningen, Netherlands)     
+- Rajkumar Buyya (U Melbourne, AUS)
+- Coral Calero (U of Castilla-La Mancha, Spain)
+- Fernando Castor (Federal U of Pernambuco, Brazil)
+- Alcides Fonseca (U of Lisbon, Portugal)
+- Lidia Fuentes (U Malaga, Spain)
+- Danny Greefhorst (ArchiXL, Netherlands)
+- Serge Haziyev (SoftServe, USA)
+- Abram Hindle (U of Alberta, CA)
+- Grace Lewis (SEI at CMU, USA)
+- Ivano Malavolta (Vrije Universiteit Amsterdam, Netherlands)
+- Claudia Melo (U of Brasilia, Brazil)
+- Hausi Mueller (U of Victoria, CA)
+- Olivier Philippot (Greenspector, France)
+- Giuseppe Procaccianti (Vandebron, Netherlands)
+- Antony Tang (Swinburne U of Technology, AUS)
+- Colin Venters (U of Huddersfield, UK)
+- John Whittle (Monash U, AUS)
 
 ## Call for Papers 
 
