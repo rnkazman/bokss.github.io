@@ -94,4 +94,4 @@ Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](http
 
 ## Call for Papers 
 
-TBA
+[Call for Papers (PDF)](https://github.com/BoKSS/bokss.github.io/edit/master/BoKSS_2021_cfp.pdf)
