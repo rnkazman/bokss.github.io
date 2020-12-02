@@ -16,7 +16,7 @@ author: BoKSS Organization Committee
 navbar-links:
   # Call for Papers: "call"
   BoKSS 2021: "bokss2021"
-  Resources:
+  #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
   Contact: "mailto:bokss2021@easychair.org?Subject=[BoKSS] info"
