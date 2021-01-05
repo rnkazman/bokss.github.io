@@ -7,7 +7,7 @@ title: BoKSS 2021
 
 - Co-located with [ICSE 2021](https://conf.researchr.org/home/icse-2021) (under submission)
 - Virtual 
-- May 23 – 29, 2021
+- June 1-2, 2021
 
 ## Theme & Goals
 
@@ -62,7 +62,7 @@ Prospective participants are invited to submit two types of contributions:
 Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](https://conf.researchr.org/track/icse-2021/icse-2021-papers#Call-for-Papers), but will use a *single blind* submission process. All submitted papers will be reviewed on the basis of technical quality, relevance, significance, and clarity by the program committee. All workshop papers should be submitted electronically in PDF format through the [EasyChair workshop website](https://easychair.org/conferences/?conf=bokss2021). Accepted papers will become part of the workshop proceedings.
 
 ## Important Dates 
-- Workshop paper submissions due: Tue 12 January, 2021 (AoE time)
+- Workshop paper submissions due: Tue 12 January, 2021 (AoE time) EXTENDED TO Tue 19 January, 2021
 - Notification to authors: Mon 22 February, 2021 (AoE time)
 - Camera-ready copies due: Fri 12 March, 2021 (AoE time)
 
