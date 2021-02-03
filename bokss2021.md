@@ -66,9 +66,12 @@ Workshop papers must follow the [ICSE 2021 Format and Submission Guideline](http
 - Notification to authors: Mon 22 February, 2021 (AoE time)
 - Camera-ready copies due: Fri 12 March, 2021 (AoE time)
 
-## Organizing Committee 
+## Organizing Committee
+Workshop Organisers:
 - [Patricia Lago](http://patricialago.nl), Vrije Universiteit Amsterdam & Chalmers University of Technology
 - [Rick Kazman](https://shidler.hawaii.edu/itm/directory/rick-kazman), University of Hawaii
+
+Virtualization Chair
 - [Roberto Verdecchia](http://robertoverdecchia.github.io), Vrije Universiteit Amsterdam & Gran Sasso Science Institute
 
 ## Program Committee
