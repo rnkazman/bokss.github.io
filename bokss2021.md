@@ -53,7 +53,7 @@ The **workshop** itself is organized in **two half-days**, each opening and clos
 - **15:55-17:00** independent work (parallel session 1)
 - **17:00-17:30** Wrapup
 
-#### DAY 1: 14:00-17:30 CET
+#### DAY 2: 14:00-17:30 CET
 - **14:00-14:15** Kickstart - 15 minutes
 - **14:15-15:00** independent work (parallel session 2)
 - *15:00-15:15 Break*
