@@ -44,16 +44,21 @@ topics related to sustainable software and software for sustainability:
 The **workshop** itself is organized in **two half-days**, each opening and closing with a plenary, with in-between independent working groups. **More details to come.**
 
 #### DAY 1: 14:00-17:30 CET
-- Keynote (TBA) 45 minutes
-- *Break* 10 minutes
-- The Vision of a BoKSS (P. Lago, R. Kazman) and Discussion - 45 minutes
-- independent work - 90 minutes
-- Wrapup - 30 minutes
+- *13:45-14:00 Joining us*
+- **14:00-14:45** Keynote (TBA)
+- *14:45-14:55 Break*
+- **14:55-15:40** The Vision of a BoKSS (P. Lago, R. Kazman) and Discussion
+- *15:45-15:55 Switch to own working group*
+- **15:55-17:00** independent work (parallel session 1)
+- **17:00-17:30** Wrapup
 
 #### DAY 1: 14:00-17:30 CET
-- Kickstart - 15 minutes
-- independent work - 
-- Wrapup and Future work - 60 minutes
+- **14:00-14:15** Kickstart - 15 minutes
+- **14:15-15:00** independent work (parallel session 2)
+- *15:00-15:15 Break*
+- **15:15-16:30** independent work (parallel session 3)
+- **16:30-17:30** Wrapup and Future work
+
 
 ## Submission Guidelines 
 
