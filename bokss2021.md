@@ -7,7 +7,8 @@ title: BoKSS 2021
 
 - Co-located with [ICSE 2021](https://conf.researchr.org/home/icse-2021) (under submission)
 - Virtual 
-- June 1-2, 2021
+- June 1-2, 2021 (two half days, see program below)
+- Registratration [OPEN](https://conf.researchr.org/attending/icse-2021/registration)
 
 ## Theme & Goals
 
