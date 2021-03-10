@@ -40,20 +40,20 @@ topics related to sustainable software and software for sustainability:
 - Norbert Seyff, Birgit Penzenstadler, Stefanie Betz, Ian Brooks, Shola Oyedeji, Jari Porras, Leticia Duboc, Sedef Akinli Kocak and Colin C. Venters. *The Elephant in the Room – Educating Practitioners on Software Development for Sustainability*
 
 ## Workshop Program 
+**Before** the workshop days, we will setup a Slack Channel for all registered participants. We will use it to kickstart the working groups to build the BoKSS and plan for joint papers.
+The **workshop** itself is organized in **two half-days**, each opening and closing with a plenary, with in-between independent working groups. **More details to come.**
 
-#### Session 1 (TBA)
-- Pitches (TBD)
+#### DAY 1: 14:00-17:30 CET
+- Keynote (TBA) 45 minutes
+- *Break* 10 minutes
+- The Vision of a BoKSS (P. Lago, R. Kazman) and Discussion - 45 minutes
+- independent work - 90 minutes
+- Wrapup - 30 minutes
 
-#### Session 2 (TBA)
-- Interactive break-out session
-
-#### Session 3 (TBA)
-- Interactive break-out session
-
-#### Session 4 (TBA)
-- Presentation of break-out session results
-- Discussion
-- Next steps for BoKSS
+#### DAY 1: 14:00-17:30 CET
+- Kickstart - 15 minutes
+- independent work - 
+- Wrapup and Future work - 60 minutes
 
 ## Submission Guidelines 
 
