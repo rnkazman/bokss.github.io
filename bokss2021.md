@@ -28,8 +28,11 @@ topics related to sustainable software and software for sustainability:
 - Patterns and anti-patterns
 - Architectural tactics, architectural styles and design patterns
 
-## List of Accepted Papers
-- Stephan Druskat, Daniel S. Katz and Ilian T. Todorov. *Research Software Sustainability and Citation*
+## Accepted Papers
+| Authors | Title | Paper URL | One-Slide Presentation | 3 Minute Video Pitch |
+| :------------- | :----------: | :-----------: | :----------: | :-----------: |
+| Stephan Druskat, Daniel S. Katz and Ilian T. Todorov | *Research Software Sustainability and Citation* | https://arxiv.org/abs/2103.06681 | https://youtu.be/ZRic__4_zxE | https://zenodo.org/record/4680105 |
+
 - Birgit Penzenstadler, Stefanie Betz, Letícia Duboc, Norbert Seyff, Ian Brooks, Jari Porras, Shola Oyedeji and Colin C. Venters. *Iterative Sustainability Impact Assessment: When to propose?*
 - Shanshan Jiang, Kine Jakobsen, Letizia Jaccheri and Jingyue Li. *Blockchain and Sustainability: A Tertiary Study*
 - Colin C. Venters, Sedef Akinli Kocak, Stefanie Betz, Ian Brooks, Rafa Capilla Sevilla, Ruzanna Chitchyan, Letícia Duboc, Rogardt Heldal, Ana Moreira, Shola Oyedeji, Birgit Penzenstadler, Jari Porras and Norbert Seyff. *Software Sustainability: Beyond the Tower of Babel*
