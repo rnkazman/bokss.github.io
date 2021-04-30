@@ -29,12 +29,11 @@ topics related to sustainable software and software for sustainability:
 - Architectural tactics, architectural styles and design patterns
 
 ## Accepted Papers
-| Authors | Title | Paper URL | One-Slide Presentation | 3 Minute Video Pitch |
+| Authors | Title | Paper URL | 3 Minute Video Pitch | One-Slide Presentation |
 | :------------- | :----------: | :-----------: | :----------: | :-----------: |
-| Stephan Druskat, Daniel S. Katz and Ilian T. Todorov | *Research Software Sustainability and Citation* | https://arxiv.org/abs/2103.06681 | https://youtu.be/ZRic__4_zxE | https://zenodo.org/record/4680105 |
-
-- Birgit Penzenstadler, Stefanie Betz, Letícia Duboc, Norbert Seyff, Ian Brooks, Jari Porras, Shola Oyedeji and Colin C. Venters. *Iterative Sustainability Impact Assessment: When to propose?*
-- Shanshan Jiang, Kine Jakobsen, Letizia Jaccheri and Jingyue Li. *Blockchain and Sustainability: A Tertiary Study*
+| Stephan Druskat, Daniel S. Katz and Ilian T. Todorov | *Research Software Sustainability and Citation* | https://arxiv.org/abs/2103.06681 | https://youtu.be/ZRic__4_zxE | https://zenodo.org/record/4680105 | 
+| Birgit Penzenstadler, Stefanie Betz, Letícia Duboc, Norbert Seyff, Ian Brooks, Jari Porras, Shola Oyedeji and Colin C. Venters | *Iterative Sustainability Impact Assessment: When to propose?* | https://figshare.com/articles/preprint/Iterative_Sustainability_Impact_Assessment_When_to_propose_/14370587 | https://youtu.be/TQ4GEHG9U4E | https://docs.google.com/presentation/d/1bZHOU0DCoP4x9-wtrLoFsANjwCffpWOvRLkIw25M6kU/edit#slide=id.p |
+| Shanshan Jiang, Kine Jakobsen, Letizia Jaccheri and Jingyue Li | *Blockchain and Sustainability: A Tertiary Study* | https://arxiv.org/abs/2103.16937	| https://github.com/SINTEF-SE/P4C/blob/main/Blockchain%20and%20Sustainability-BoKSS2021.mp4 |	https://github.com/SINTEF-SE/P4C/blob/main/Blockchain%20and%20Sustainability-BoKSS2021.pptx?raw=true |
 - Colin C. Venters, Sedef Akinli Kocak, Stefanie Betz, Ian Brooks, Rafa Capilla Sevilla, Ruzanna Chitchyan, Letícia Duboc, Rogardt Heldal, Ana Moreira, Shola Oyedeji, Birgit Penzenstadler, Jari Porras and Norbert Seyff. *Software Sustainability: Beyond the Tower of Babel*
 - Daniel S. Katz, Jeffrey Carver, Neil Chue Hong, Sandra Gesing, Simon Hettrick, Tom Honeyman, Karthik Ram and Nicholas Weber. *Addressing Research Software Sustainability via Institutes*
 - Orges Cico, Letizia Jaccheri and Anh Nguyen-Duc. *Software Sustainability in Customer-Driven Courses*
